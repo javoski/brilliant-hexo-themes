@@ -11,4 +11,3 @@
 - [Persona Color](https://github.com/heruoxin/hexo-persona-color): [demo](https://www.1ittlecup.com/)
 - [Persona Dark](https://github.com/thiagopnts/hexo-persona-dark): [demo](http://thiago.me/hexo-persona-dark/)
 - [NexT](https://github.com/iissnan/hexo-theme-next): [demo](http://notes.iissnan.com/)
-- 
