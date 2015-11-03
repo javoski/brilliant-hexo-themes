@@ -5,3 +5,10 @@
 - [HeXadillaX](https://github.com/XadillaX/hexadillax): [demo](https://xcoder.in/)
 - [Kael](https://github.com/yuche/hexo-theme-kael): [demo](http://yuche.me/)
 - [Lingyu](https://github.com/LingyuCoder/lingyu-theme): [demo](http://lingyu.wang)
+- [Yilia](https://github.com/litten/hexo-theme-yilia): [demo](http://litten.github.io/)
+- [Transparent](https://github.com/bingli8882/hexo-theme-transparent): [demo](http://binglispace.com/)
+- [TKL](https://github.com/SuperKieran/TKL): [demo](http://go.kieran.top/)
+- [Persona Color](https://github.com/heruoxin/hexo-persona-color): [demo](https://www.1ittlecup.com/)
+- [Persona Dark](https://github.com/thiagopnts/hexo-persona-dark): [demo](http://thiago.me/hexo-persona-dark/)
+- [NexT](https://github.com/iissnan/hexo-theme-next): [demo](http://notes.iissnan.com/)
+- 
