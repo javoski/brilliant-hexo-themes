@@ -1,5 +1,5 @@
 ## List
-- [Tranquilpeak](https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme): [demo](http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/)
+- [Tranquilpeak](https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme): [demo](http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/)
 - [Casper](https://github.com/kywk/hexo-theme-casper): [demo](http://kywk.github.io/hexo-theme-casper/)
 - [Hueman](https://github.com/ppoffice/hexo-theme-hueman): [demo](http://blog.zhangruipeng.me/hexo-theme-hueman/)
 - [HeXadillaX](https://github.com/XadillaX/hexadillax): [demo](https://xcoder.in/)
